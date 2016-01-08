@@ -1,6 +1,6 @@
 # Epicodus Bootstrap Practice
 
-#### This mock website is the product of an Epicodus exercise in using Bootstrap, 1.10.2016
+#### This mock website is the product of an Epicodus exercise in using Bootstrap, 1.7.2016
 
 #### By **Joseph Karasek and Joseph Arnstein**
 
